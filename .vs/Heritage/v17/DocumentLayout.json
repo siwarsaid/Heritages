@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|c:\\users\\siwar\\formation\\quetesc#\\heritage\\heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|solutionrelative:heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|c:\\users\\siwar\\formation\\quetesc#\\heritage\\heritage\\bipedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|solutionrelative:heritage\\bipedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|c:\\users\\siwar\\formation\\quetesc#\\heritage\\heritage\\quadrupedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|solutionrelative:heritage\\quadrupedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|c:\\users\\siwar\\formation\\quetesc#\\heritage\\heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8260BB4-0E51-4787-89B3-5F312A201782}|Heritage\\Heritage.csproj|solutionrelative:heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrupedes.cs",
+              "DocumentMoniker": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Quadrupedes.cs",
+              "RelativeDocumentMoniker": "Heritage\\Quadrupedes.cs",
+              "ToolTip": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Quadrupedes.cs",
+              "RelativeToolTip": "Heritage\\Quadrupedes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:57:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bipedes.cs",
+              "DocumentMoniker": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Bipedes.cs",
+              "RelativeDocumentMoniker": "Heritage\\Bipedes.cs",
+              "ToolTip": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Bipedes.cs",
+              "RelativeToolTip": "Heritage\\Bipedes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:56:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Animal.cs",
+              "RelativeDocumentMoniker": "Heritage\\Animal.cs",
+              "ToolTip": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Animal.cs",
+              "RelativeToolTip": "Heritage\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:53:45.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Program.cs",
+              "RelativeDocumentMoniker": "Heritage\\Program.cs",
+              "ToolTip": "C:\\Users\\Siwar\\formation\\QuetesC#\\Heritage\\Heritage\\Program.cs",
+              "RelativeToolTip": "Heritage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:35:25.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
